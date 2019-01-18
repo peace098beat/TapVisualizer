@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapVisualizer__0_2", "TapVisualizer__0_2\TapVisualizer__0_2.csproj", "{3A899F57-3DEE-475E-8BEA-DC5F77A892D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapVisualizer", "TapVisualizer\TapVisualizer.csproj", "{CC18696B-61A3-432E-839C-C53EFAD13CB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3A899F57-3DEE-475E-8BEA-DC5F77A892D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A899F57-3DEE-475E-8BEA-DC5F77A892D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A899F57-3DEE-475E-8BEA-DC5F77A892D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC18696B-61A3-432E-839C-C53EFAD13CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC18696B-61A3-432E-839C-C53EFAD13CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC18696B-61A3-432E-839C-C53EFAD13CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC18696B-61A3-432E-839C-C53EFAD13CB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
