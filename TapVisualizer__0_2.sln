@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapVisualizer__0_2", "TapVi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapVisualizer", "TapVisualizer\TapVisualizer.csproj", "{CC18696B-61A3-432E-839C-C53EFAD13CB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempChartTest", "TempChartTest\TempChartTest.csproj", "{D79C019D-A7B9-4DF3-8234-DCA599E09D37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CC18696B-61A3-432E-839C-C53EFAD13CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC18696B-61A3-432E-839C-C53EFAD13CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC18696B-61A3-432E-839C-C53EFAD13CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79C019D-A7B9-4DF3-8234-DCA599E09D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79C019D-A7B9-4DF3-8234-DCA599E09D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79C019D-A7B9-4DF3-8234-DCA599E09D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79C019D-A7B9-4DF3-8234-DCA599E09D37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
